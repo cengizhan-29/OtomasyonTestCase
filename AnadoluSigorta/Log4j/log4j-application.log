@@ -1,0 +1,42 @@
+2022-07-04 00:36:23 INFO  Logger:29 - Basarılı bicimde web sitesine gidildi
+2022-07-04 00:36:30 INFO  Logger:31 - clickSignInButton passed
+2022-07-04 00:36:34 INFO  Logger:37 - controlOntheMainPage passed
+2022-07-04 00:36:37 INFO  Logger:45 - login passed
+2022-07-04 00:36:40 INFO  Logger:21 - clickWomanTab passed
+2022-07-04 00:36:40 INFO  Logger:24 - urunlerKontrolOntheCategoryPageforWoman passed
+2022-07-04 00:36:40 INFO  Logger:30 - subCategoriesControl passed
+2022-07-04 00:36:41 INFO  Logger:36 - urunSec passed
+2022-07-04 00:36:51 INFO  Logger:26 - controlOnProductDetailPage passed
+2022-07-04 00:36:52 INFO  Logger:34 - addToCartProduct passed
+2022-07-04 00:36:52 INFO  Logger:40 - addtoCart passed
+2022-07-04 00:36:56 INFO  Logger:47 - controlTxtPopup passed
+2022-07-04 00:37:00 INFO  Logger:52 - gotoBasketForCheckout passed
+2022-07-04 00:37:00 INFO  Logger:29 - controlTotalTotalProductAndQty passed
+2022-07-04 00:54:27 INFO  Logger:29 - Basarılı bicimde web sitesine gidildi
+2022-07-04 00:54:36 INFO  Logger:31 - clickSignInButton passed
+2022-07-04 00:54:40 INFO  Logger:37 - controlOntheMainPage passed
+2022-07-04 00:54:48 INFO  Logger:45 - login passed
+2022-07-04 00:54:58 INFO  Logger:21 - clickWomanTab passed
+2022-07-04 00:54:58 INFO  Logger:24 - urunlerKontrolOntheCategoryPageforWoman passed
+2022-07-04 00:54:58 INFO  Logger:30 - subCategoriesControl passed
+2022-07-04 00:54:58 INFO  Logger:36 - urunSec passed
+2022-07-04 00:55:08 INFO  Logger:26 - controlOnProductDetailPage passed
+2022-07-04 00:55:09 INFO  Logger:34 - addToCartProduct passed
+2022-07-04 00:55:09 INFO  Logger:40 - addtoCart passed
+2022-07-04 00:55:13 INFO  Logger:47 - controlTxtPopup passed
+2022-07-04 00:55:19 INFO  Logger:52 - gotoBasketForCheckout passed
+2022-07-04 00:55:19 INFO  Logger:29 - controlTotalTotalProductAndQty passed
+2022-07-04 00:58:03 INFO  Logger:29 - Basarılı bicimde web sitesine gidildi
+2022-07-04 00:58:09 INFO  Logger:31 - clickSignInButton passed
+2022-07-04 00:58:13 INFO  Logger:37 - controlOntheMainPage passed
+2022-07-04 00:58:16 INFO  Logger:45 - login passed
+2022-07-04 00:58:24 INFO  Logger:21 - clickWomanTab passed
+2022-07-04 00:58:24 INFO  Logger:24 - urunlerKontrolOntheCategoryPageforWoman passed
+2022-07-04 00:58:24 INFO  Logger:30 - subCategoriesControl passed
+2022-07-04 00:58:24 INFO  Logger:36 - urunSec passed
+2022-07-04 00:58:34 INFO  Logger:26 - controlOnProductDetailPage passed
+2022-07-04 00:58:34 INFO  Logger:34 - addToCartProduct passed
+2022-07-04 00:58:34 INFO  Logger:40 - addtoCart passed
+2022-07-04 00:58:38 INFO  Logger:47 - controlTxtPopup passed
+2022-07-04 00:58:40 INFO  Logger:52 - gotoBasketForCheckout passed
+2022-07-04 00:58:40 INFO  Logger:29 - controlTotalTotalProductAndQty passed
